@@ -22,6 +22,8 @@
 apt update && apt install git -y && git clone https://github.com/htr-tech/bash2mp4 && cd bash2mp4 && bash setup.sh && b2mp4
 ```
 ## [+] Find Me on :
-### [~] [Facebook](https://facebook.com/tahmid.rayat.official/)
-### [~] [Instagram](https://instagram.com/tahmid.rayat/)
-### [~] [Github](https://github.com/htr-tech/)
+
+[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
+[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
+
